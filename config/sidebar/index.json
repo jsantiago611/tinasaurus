@@ -2,8 +2,16 @@
   "label": "Docs Sidebar",
   "items": [
     {
-      "document": "docs/Children-of-the-Light.mdx",
-      "_template": "doc"
+      "title": "Children of the Light",
+      "link": "doc",
+      "docLink": "docs/Children-of-the-Light.mdx",
+      "items": [
+        {
+          "document": "docs/Key-1-Know-sin-and-walk-in-obedience.mdx",
+          "_template": "doc"
+        }
+      ],
+      "_template": "category"
     },
     {
       "document": "docs/intro.mdx",
