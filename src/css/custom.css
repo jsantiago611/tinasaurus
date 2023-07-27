@@ -22,17 +22,43 @@
 }
 @font-face {
   font-family: "Soehne";
-  src: url("/font/Tobias-Light.woff") format("woff");
+  src: url("/font/GT-Super-Text-Book.woff") format("woff");
+  font-weight: 400;
   display: swap;
   font-style: italic;
 }
 
+@font-face {
+  font-family: "GT";
+  src: url("/font/GT-Super-Text-Book.woff2") format("woff2");
+  font-weight: 400;
+  display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: "GT";
+  src: url("/font/GT-Super-Text-Book-Italic.woff2") format("woff2");
+  font-weight: 400;
+  display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: "GT";
+  src: url("/font/GT-Super-Display-Medium.woff2") format("woff2");
+  font-weight: 700;
+  display: swap;
+  font-style: normal;
+}
+
+
 blockquote {
-  font-style: italic !important;
+  /* font-style: italic !important; */
+  font-family: "GT";
 }
 
 .hero__subtitle {
-    font-style: italic !important;
+    /*font-style: italic !important;*/
+    font-family: "GT";
 }
 
 :root {
