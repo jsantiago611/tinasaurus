@@ -2,6 +2,12 @@
   "label": "Docs Sidebar",
   "items": [
     {
+      "title": "Ephesians",
+      "link": "doc",
+      "docLink": "docs/Ephesians.mdx",
+      "_template": "category"
+    },
+    {
       "title": "Children of the Light",
       "link": "doc",
       "docLink": "docs/Children-of-the-Light.mdx",
