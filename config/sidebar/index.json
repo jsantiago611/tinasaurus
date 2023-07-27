@@ -5,6 +5,12 @@
       "title": "Ephesians",
       "link": "doc",
       "docLink": "docs/Ephesians.mdx",
+      "items": [
+        {
+          "document": "docs/Ephesians.mdx",
+          "_template": "doc"
+        }
+      ],
       "_template": "category"
     },
     {
