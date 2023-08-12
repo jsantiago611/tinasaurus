@@ -2,6 +2,18 @@
   "label": "Docs Sidebar",
   "items": [
     {
+      "title": "Matthew",
+      "link": "doc",
+      "docLink": "docs/Matthew.mdx",
+      "items": [
+        {
+          "document": "docs/Matthew.mdx",
+          "_template": "doc"
+        }
+      ],
+      "_template": "category"
+    },
+    {
       "title": "Ephesians",
       "link": "doc",
       "docLink": "docs/Ephesians.mdx",
