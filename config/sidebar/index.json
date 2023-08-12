@@ -7,6 +7,10 @@
       "docLink": "docs/Matthew.mdx",
       "items": [
         {
+          "document": "docs/Matthew-1.mdx",
+          "_template": "doc"
+        },
+        {
           "document": "docs/Matthew.mdx",
           "_template": "doc"
         }
