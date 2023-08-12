@@ -107,7 +107,6 @@ blockquote {
   --ifm-h1-font-size: 6rem;
   margin-bottom: calc(var(--ifm-h1-vertical-rhythm-bottom)*var(--ifm-leading));
   letter-spacing: -0.08ch;
-  font-family: 'GT';
   font-weight: 400;
 }
 
