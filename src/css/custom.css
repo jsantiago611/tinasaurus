@@ -22,7 +22,7 @@
 }
 @font-face {
   font-family: "Soehne";
-  src: url("/font/GT-Super-Text-Book.woff") format("woff");
+  src: url("/font/Tobias-Light.woff") format("woff");
   font-weight: 400;
   display: swap;
   font-style: italic;
@@ -52,13 +52,12 @@
 
 
 blockquote {
-  /* font-style: italic !important; */
-  font-family: "GT";
+  font-style: italic !important; 
+  
 }
 
 .hero__subtitle {
-    /*font-style: italic !important;*/
-    font-family: "GT";
+    font-style: italic !important;
 }
 
 :root {
