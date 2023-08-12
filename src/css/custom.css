@@ -106,8 +106,8 @@ blockquote {
 .markdown h1:first-child {
   --ifm-h1-font-size: 6rem;
   margin-bottom: calc(var(--ifm-h1-vertical-rhythm-bottom)*var(--ifm-leading));
-  letter-spacing: -0.08ch;
-  font-weight: 400;
+  letter-spacing: -0.03ch;
+  
 }
 
 blockquote {
