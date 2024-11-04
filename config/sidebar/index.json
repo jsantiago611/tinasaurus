@@ -2,78 +2,8 @@
   "label": "Docs Sidebar",
   "items": [
     {
-      "title": "Matthew",
-      "link": "doc",
-      "docLink": "docs/Matthew.mdx",
-      "items": [
-        {
-          "document": "docs/Matthew-1.mdx",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/Matthew.mdx",
-          "_template": "doc"
-        }
-      ],
-      "_template": "category"
-    },
-    {
-      "title": "Ephesians",
-      "link": "doc",
-      "docLink": "docs/Ephesians.mdx",
-      "items": [
-        {
-          "document": "docs/Ephesians.mdx",
-          "_template": "doc"
-        }
-      ],
-      "_template": "category"
-    },
-    {
-      "title": "Children of the Light",
-      "link": "doc",
-      "docLink": "docs/Children-of-the-Light.mdx",
-      "items": [
-        {
-          "document": "docs/Key-1-Know-sin-and-walk-in-obedience.mdx",
-          "_template": "doc"
-        }
-      ],
-      "_template": "category"
-    },
-    {
       "document": "docs/intro.mdx",
       "_template": "doc"
-    },
-    {
-      "title": "Genesis",
-      "link": "doc",
-      "docLink": "docs/Bible-The-Whole-Story---Creation-and-Fall.mdx",
-      "items": [
-        {
-          "document": "docs/Before-the-Beginning.mdx",
-          "label": "Genesis 1:1-3",
-          "_template": "doc"
-        },
-        {
-          "document": "docs/The-History-of-the-World-in-a-Nutshell.mdx",
-          "label": "Genesis 1",
-          "_template": "doc"
-        }
-      ],
-      "_template": "category"
-    },
-    {
-      "title": "Acts",
-      "link": "none",
-      "items": [
-        {
-          "document": "docs/The-First-Miracle.mdx",
-          "label": "Acts 3",
-          "_template": "doc"
-        }
-      ],
-      "_template": "category"
     }
   ]
 }
