@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; 
 import { defineConfig, TextField } from "tinacms";
 import { ReferenceField } from "tinacms";
 import { FeaturesBlockTemplate } from "../src/components/Features/template";
