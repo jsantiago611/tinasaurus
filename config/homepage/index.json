@@ -1,6 +1,6 @@
 {
   "label": "Homepage",
-  "title": "Hello from Gospel Exploder",
+  "title": "QA",
   "description": "Description will go into a meta tag in <head />",
   "blocks": [
     {
@@ -22,7 +22,7 @@
         },
         {
           "title": "Discover the Gospel Everywhere",
-          "description": "Special attention is given to Keller's explanations of the gospel. Discover how the gospel really does change everything. \n",
+          "description": "Special attention is given to Keller's explanations of the gospel. Discover how the gospel really does change everything.\n",
           "image": ""
         }
       ],
