@@ -1,23 +1,25 @@
 {
   "label": "Settings",
+  "logo": {
+    "alt": "Keller Study Bible",
+    "src": "/img/k.svg"
+  },
+  "title": "Jonathan D.S.",
+  "tagline": "QA & Leadership Education for the Real World",
+  "url": "https://tinasaurus.vercel.app/",
   "navbar": [
     {
-      "label": "Bible",
+      "label": "Docs",
       "link": "doc",
       "docLink": "docs/intro.mdx",
       "position": "left"
     },
     {
-      "label": "Notes",
+      "label": "Blog",
       "link": "blog",
       "position": "left"
     }
   ],
-  "logo": {
-    "alt": "Keller Study Bible",
-    "src": "/img/k.svg"
-  },
-  "title": "Keller Study Bible",
   "footer": {
     "style": "dark",
     "links": [
@@ -47,7 +49,5 @@
       }
     ],
     "copyright": "My Project, Inc. Built with Docusaurus."
-  },
-  "url": "https://tinasaurus.vercel.app/",
-  "tagline": "Breaking apart Tim Keller's sermons into atomic essays to discover how the gospel changes everything. "
+  }
 }
