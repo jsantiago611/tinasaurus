@@ -1,7 +1,7 @@
 const docusaurusData = require("./config/docusaurus/index.json");
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const lightCodeTheme = require("prism-react-renderer").themes.github;
+const darkCodeTheme = require("prism-react-renderer").themes.dracula;
 
 const getDocId = (doc) => {
   return doc
@@ -108,7 +108,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          /**  editUrl: docusaurusData.url + "/admin/#/collections/doc", */
+          editUrl: docusaurusData.url + "/admin/#/collections/doc",
         },
         blog: {
           showReadingTime: true,
