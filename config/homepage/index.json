@@ -1,31 +1,14 @@
 {
   "label": "Homepage",
-  "title": "Hello from Gospel Exploder",
+  "title": "QA",
   "description": "Description will go into a meta tag in <head />",
   "blocks": [
     {
       "document": "docs/intro.mdx",
-      "documentLabel": "Explore the Bible",
+      "documentLabel": "Explore the Docs",
       "_template": "hero"
     },
     {
-      "items": [
-        {
-          "title": "Sermon Notes",
-          "description": "Experience Tim Keller's Sermons alongside the Bible Text. Read as if you were reading your favorite study bible.\n",
-          "image": ""
-        },
-        {
-          "title": "Learn Faster",
-          "description": "Organized information, in-depth quotes, and visual outlines help you learn faster from Keller's sermons.\n",
-          "image": ""
-        },
-        {
-          "title": "Discover the Gospel Everywhere",
-          "description": "Special attention is given to Keller's explanations of the gospel. Discover how the gospel really does change everything. \n",
-          "image": ""
-        }
-      ],
       "_template": "features"
     }
   ]
